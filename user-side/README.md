@@ -3,7 +3,7 @@
 ## Install and run the dependencies
 
 
-### `TERMINAL`
+### TERMINAL
 
 - Run `npm` in **Animal-Cards** .
 - Type cd **user-side** and, again, run `npm`.
@@ -13,13 +13,13 @@
 
 ## Data Base
 
-### `TERMINAL`
+### TERMINAL
 
 - Type `mysql -u root- p` for acces to MySQL.
 - Create a data base with the name : `AniamlCards`.
 
 
-### `PROYECT`
+### PROJECT
 
 - Add and env. file with this information inside:
 
@@ -30,7 +30,7 @@ DB_NAME=AnimalCards
 
 
 
-### `TERMINAL`
+### TERMINAL
 
 - `npm`run migrate.
 *(if you work with yarn, type yarn instead npm).
@@ -41,7 +41,7 @@ DB_NAME=AnimalCards
 
 ## Run start
 
-### `TERMINAL`
+### TERMINAL
 
 - Type`npm` run start in **Animal-Cards** .
 - Type cd **user-side** and, again, `npm` run start.
